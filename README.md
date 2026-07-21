@@ -6,7 +6,7 @@ A simple command-line To-Do application written in Python.
 
 - Add tasks
 - List all tasks
-- Edit task name
+- Edit task names
 - Mark tasks as completed
 - Delete tasks
 - Store data using JSON
@@ -17,6 +17,14 @@ A simple command-line To-Do application written in Python.
 - JSON
 
 ## Run
+
+### Windows
+
+```bash
+python main.py
+```
+
+### macOS / Linux
 
 ```bash
 python3 main.py
